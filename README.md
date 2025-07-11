@@ -12,7 +12,6 @@ This is a **Resume Builder Website** built using HTML, CSS, and JavaScript. It a
 
 🎯 [Click here to try the Live Resume Builder](https://sumitnarwade24.github.io/reesume-builder-website/)
 
-> Make sure your GitHub Pages is enabled from the `main` branch in your repo settings.
 
 ---
 
